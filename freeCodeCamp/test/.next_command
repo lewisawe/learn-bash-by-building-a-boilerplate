@@ -226,3 +226,14 @@ mv CodeAlly.svg client/assets/icons/
 find
 ls --color=auto client/assets/icons/
 mv CodeRoad.svg client/assets/icons/
+mv freeCodeCamp.svg client/assets/i
+mv freeCodeCamp.svg client/assets/icons/
+cd client/assets/
+ls --color=auto
+cd i
+ls --color=auto
+rm i
+cd ../..
+mv freeCodeCamp.svg client/assets/icons/
+touch freeCodeCamp.svg
+mv freeCodeCamp.svg client/assets/icons/
