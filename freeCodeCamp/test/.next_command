@@ -254,3 +254,4 @@ ls --color=auto
 mkdir fonts
 rmdir --help
 rm --help
+rm -r fonts/
