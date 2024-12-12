@@ -237,3 +237,5 @@ cd ../..
 mv freeCodeCamp.svg client/assets/icons/
 touch freeCodeCamp.svg
 mv freeCodeCamp.svg client/assets/icons/
+__vsc_prompt_cmd_original
+find
