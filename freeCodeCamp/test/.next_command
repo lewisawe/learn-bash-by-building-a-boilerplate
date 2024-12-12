@@ -245,3 +245,4 @@ touch client/assets/fonts/roboto-ligt.woff
 touch client/assets/fonts/roboto-light.woff
 rm client/assets/fonts/roboto-ligt.woff
 find client/assets/fonts/
+touch client/assets/fonts/lato-bold.ttf
