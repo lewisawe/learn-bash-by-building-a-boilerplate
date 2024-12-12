@@ -277,3 +277,4 @@ copy --help
 cp --help
 cd -r website-boilerplate/ toms-website/
 cp -r website-boilerplate/ toms-website/
+ls --color=auto
