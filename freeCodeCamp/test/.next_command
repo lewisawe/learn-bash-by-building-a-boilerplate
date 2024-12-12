@@ -241,3 +241,5 @@ __vsc_prompt_cmd_original
 find
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-ligt.woff
+touch client/assets/fonts/roboto-light.woff
