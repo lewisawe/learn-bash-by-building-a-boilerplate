@@ -205,3 +205,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 cd images/
 ls --color=auto
+mv header.png ..
